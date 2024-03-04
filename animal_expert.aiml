@@ -1,0 +1,22 @@
+<aiml>
+    <category>
+        <pattern>WHAT IS A DOG</pattern>
+        <template>A dog is a domesticated carnivorous mammal.</template>
+    </category>
+    <category>
+        <pattern>WHAT DOES A CAT EAT</pattern>
+        <template>Cats are carnivores and usually eat meat.</template>
+    </category>
+    <category>
+        <pattern>WHERE DOES A LION LIVE</pattern>
+        <template>Lions are typically found in grasslands and savannas.</template>
+    </category>
+    <category>
+        <pattern>EXIT</pattern>
+        <template>Goodbye! If you have more questions, feel free to ask.</template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <template>I'm sorry, I don't have information on that topic.</template>
+    </category>
+</aiml>
